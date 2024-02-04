@@ -1,2 +1,2 @@
 # MyMovies
-Projeto feito junto ao curso HASHTAGTREINAMENTOS
+Projeto feito junto ao curso *HASHTAG TREINAMENTOS*
